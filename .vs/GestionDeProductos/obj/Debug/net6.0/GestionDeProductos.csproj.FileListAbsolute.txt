@@ -1,0 +1,15 @@
+D:\Tecnicatura en Desarrollo de Software\02 - Segundo Semestre\01 - Desarrollo de Sistemas Orientado a Objetos\CLUB DEPORTIVO\GestionDeProductos\bin\Debug\net6.0\GestionDeProductos.exe
+D:\Tecnicatura en Desarrollo de Software\02 - Segundo Semestre\01 - Desarrollo de Sistemas Orientado a Objetos\CLUB DEPORTIVO\GestionDeProductos\bin\Debug\net6.0\GestionDeProductos.deps.json
+D:\Tecnicatura en Desarrollo de Software\02 - Segundo Semestre\01 - Desarrollo de Sistemas Orientado a Objetos\CLUB DEPORTIVO\GestionDeProductos\bin\Debug\net6.0\GestionDeProductos.runtimeconfig.json
+D:\Tecnicatura en Desarrollo de Software\02 - Segundo Semestre\01 - Desarrollo de Sistemas Orientado a Objetos\CLUB DEPORTIVO\GestionDeProductos\bin\Debug\net6.0\GestionDeProductos.dll
+D:\Tecnicatura en Desarrollo de Software\02 - Segundo Semestre\01 - Desarrollo de Sistemas Orientado a Objetos\CLUB DEPORTIVO\GestionDeProductos\bin\Debug\net6.0\GestionDeProductos.pdb
+D:\Tecnicatura en Desarrollo de Software\02 - Segundo Semestre\01 - Desarrollo de Sistemas Orientado a Objetos\CLUB DEPORTIVO\GestionDeProductos\obj\Debug\net6.0\GestionDeProductos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnicatura en Desarrollo de Software\02 - Segundo Semestre\01 - Desarrollo de Sistemas Orientado a Objetos\CLUB DEPORTIVO\GestionDeProductos\obj\Debug\net6.0\GestionDeProductos.AssemblyInfoInputs.cache
+D:\Tecnicatura en Desarrollo de Software\02 - Segundo Semestre\01 - Desarrollo de Sistemas Orientado a Objetos\CLUB DEPORTIVO\GestionDeProductos\obj\Debug\net6.0\GestionDeProductos.AssemblyInfo.cs
+D:\Tecnicatura en Desarrollo de Software\02 - Segundo Semestre\01 - Desarrollo de Sistemas Orientado a Objetos\CLUB DEPORTIVO\GestionDeProductos\obj\Debug\net6.0\GestionDeProductos.csproj.CoreCompileInputs.cache
+D:\Tecnicatura en Desarrollo de Software\02 - Segundo Semestre\01 - Desarrollo de Sistemas Orientado a Objetos\CLUB DEPORTIVO\GestionDeProductos\obj\Debug\net6.0\GestionDeProductos.sourcelink.json
+D:\Tecnicatura en Desarrollo de Software\02 - Segundo Semestre\01 - Desarrollo de Sistemas Orientado a Objetos\CLUB DEPORTIVO\GestionDeProductos\obj\Debug\net6.0\GestionDeProductos.dll
+D:\Tecnicatura en Desarrollo de Software\02 - Segundo Semestre\01 - Desarrollo de Sistemas Orientado a Objetos\CLUB DEPORTIVO\GestionDeProductos\obj\Debug\net6.0\refint\GestionDeProductos.dll
+D:\Tecnicatura en Desarrollo de Software\02 - Segundo Semestre\01 - Desarrollo de Sistemas Orientado a Objetos\CLUB DEPORTIVO\GestionDeProductos\obj\Debug\net6.0\GestionDeProductos.pdb
+D:\Tecnicatura en Desarrollo de Software\02 - Segundo Semestre\01 - Desarrollo de Sistemas Orientado a Objetos\CLUB DEPORTIVO\GestionDeProductos\obj\Debug\net6.0\GestionDeProductos.genruntimeconfig.cache
+D:\Tecnicatura en Desarrollo de Software\02 - Segundo Semestre\01 - Desarrollo de Sistemas Orientado a Objetos\CLUB DEPORTIVO\GestionDeProductos\obj\Debug\net6.0\ref\GestionDeProductos.dll

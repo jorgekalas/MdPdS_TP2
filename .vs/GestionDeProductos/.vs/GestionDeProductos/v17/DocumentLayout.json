@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tecnicatura en Desarrollo de Software\\02 - Segundo Semestre\\01 - Desarrollo de Sistemas Orientado a Objetos\\CLUB DEPORTIVO\\GestionDeProductos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF802DC5-F596-4A8A-B4FC-5691340F192B}|..\\GestionDeProductos.Tests\\GestionDeProductos.Tests.csproj|d:\\tecnicatura en desarrollo de software\\02 - segundo semestre\\01 - desarrollo de sistemas orientado a objetos\\club deportivo\\gestiondeproductos.tests\\productmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDB509C-ED0B-4CE3-AE08-89D66197C70C}|GestionDeProductos.csproj|d:\\tecnicatura en desarrollo de software\\02 - segundo semestre\\01 - desarrollo de sistemas orientado a objetos\\club deportivo\\gestiondeproductos\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDB509C-ED0B-4CE3-AE08-89D66197C70C}|GestionDeProductos.csproj|solutionrelative:productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDB509C-ED0B-4CE3-AE08-89D66197C70C}|GestionDeProductos.csproj|d:\\tecnicatura en desarrollo de software\\02 - segundo semestre\\01 - desarrollo de sistemas orientado a objetos\\club deportivo\\gestiondeproductos\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDB509C-ED0B-4CE3-AE08-89D66197C70C}|GestionDeProductos.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDB509C-ED0B-4CE3-AE08-89D66197C70C}|GestionDeProductos.csproj|d:\\tecnicatura en desarrollo de software\\02 - segundo semestre\\01 - desarrollo de sistemas orientado a objetos\\club deportivo\\gestiondeproductos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDB509C-ED0B-4CE3-AE08-89D66197C70C}|GestionDeProductos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductManagerTests.cs",
+              "DocumentMoniker": "D:\\Tecnicatura en Desarrollo de Software\\02 - Segundo Semestre\\01 - Desarrollo de Sistemas Orientado a Objetos\\CLUB DEPORTIVO\\GestionDeProductos.Tests\\ProductManagerTests.cs",
+              "RelativeDocumentMoniker": "..\\GestionDeProductos.Tests\\ProductManagerTests.cs",
+              "ToolTip": "D:\\Tecnicatura en Desarrollo de Software\\02 - Segundo Semestre\\01 - Desarrollo de Sistemas Orientado a Objetos\\CLUB DEPORTIVO\\GestionDeProductos.Tests\\ProductManagerTests.cs",
+              "RelativeToolTip": "..\\GestionDeProductos.Tests\\ProductManagerTests.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwD0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T20:47:51.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "D:\\Tecnicatura en Desarrollo de Software\\02 - Segundo Semestre\\01 - Desarrollo de Sistemas Orientado a Objetos\\CLUB DEPORTIVO\\GestionDeProductos\\ProductManager.cs",
+              "RelativeDocumentMoniker": "ProductManager.cs",
+              "ToolTip": "D:\\Tecnicatura en Desarrollo de Software\\02 - Segundo Semestre\\01 - Desarrollo de Sistemas Orientado a Objetos\\CLUB DEPORTIVO\\GestionDeProductos\\ProductManager.cs",
+              "RelativeToolTip": "ProductManager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T20:30:27.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Tecnicatura en Desarrollo de Software\\02 - Segundo Semestre\\01 - Desarrollo de Sistemas Orientado a Objetos\\CLUB DEPORTIVO\\GestionDeProductos\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "D:\\Tecnicatura en Desarrollo de Software\\02 - Segundo Semestre\\01 - Desarrollo de Sistemas Orientado a Objetos\\CLUB DEPORTIVO\\GestionDeProductos\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAACcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T20:29:52.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Tecnicatura en Desarrollo de Software\\02 - Segundo Semestre\\01 - Desarrollo de Sistemas Orientado a Objetos\\CLUB DEPORTIVO\\GestionDeProductos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Tecnicatura en Desarrollo de Software\\02 - Segundo Semestre\\01 - Desarrollo de Sistemas Orientado a Objetos\\CLUB DEPORTIVO\\GestionDeProductos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T20:29:07.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
